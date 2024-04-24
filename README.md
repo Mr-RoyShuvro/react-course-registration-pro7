@@ -1,4 +1,4 @@
-1.  Project features are given below:
+A.  Project features are given below:
 
 The purpose of project is to build an application program to reduce manual work for managing the course through internet. This application has good appearance and 
 easy to operate. It is very simple and easy to access. This project provides lots of features to manage in very well manner.
@@ -8,7 +8,7 @@ easy to operate. It is very simple and easy to access. This project provides lot
 4. If you mistakely select specific course in multiple time, you will be notified.
 
 
-2.  Discusssion about how I managed the state in my assignment project.
+B.  Discusssion about how I managed the state in my assignment project.
 State is a dynamic data storage that provides a mechanism for components to manage, keep track of changing data, and trigger re-rendering when it is updated. Due to 
 modularization in React, state serves as a container that encapsulates relevant data, logic, and behavior within a component.
 Sometimes, you want the state of two components to always change together. To do it, remove state from both of them, move it to their closest common parent, and 
